@@ -1,4 +1,4 @@
-package at.htl.fit;
+package at.htl.guestregister;
 
 import io.quarkus.test.junit.QuarkusTest;
 import org.junit.jupiter.api.Test;
